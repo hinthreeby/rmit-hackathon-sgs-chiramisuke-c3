@@ -28,22 +28,31 @@ npm i --force
 npm run dev
 ```
 ## 📁 Project Directory Structure
-main
-│ README.md → Project documentation and setup guide
-│ project_report.pdf → Detailed project report
-│ youtube_link.txt → Link to gameplay video demonstration
+
+<pre>
+game_submission
+│   README.md                → Project documentation and setup guide
+│   project_report.pdf       → Detailed project report
+│   youtube_link.txt         → Link to gameplay video demonstration
 │
 ├───prompts
-│ concept_prompts.txt → Prompts for idea generation
-│ code_generation_prompts.txt → Prompts used for code creation
+│     concept_prompts.txt → Prompts for idea generation
+│     code_generation_prompts.txt → Prompts used for code creation
+│     asset_generation_prompts.txt → Prompts for visual/asset generation
+│     refinement_prompts.txt → Prompts used for debugging and polishing
 │
 ├───game_app
-│ ├───app → Main application logic and routing
-│ ├───components → Reusable UI elements (cards, buttons, etc.)
-│ ├───hooks → Custom React hooks for game functionality
-│ ├───lib → Utility and helper functions
-│ ├───public → Static assets (images, icons, etc.)
-│ └───styles → Global and component-specific CSS styles
+│   ├───app          → Main application logic and routing
+│   ├───components   → Reusable UI elements (cards, buttons, etc.)
+│   ├───hooks        → Custom React hooks for game functionality
+│   ├───lib          → Utility and helper functions
+│   ├───public       → Static assets (images, icons, etc.)
+│   └───styles       → Global and component-specific CSS styles
 │
 └───screenshots
+      menu_screen.png → Main menu interface
+      play_screen1.png → First in-game play screen
+      play_screen2.png → Second in-game play screen
+      play_screen3.png → Third in-game play screen
+      result_screen.png → Final result summary screen
 
