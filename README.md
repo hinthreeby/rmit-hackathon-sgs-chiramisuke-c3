@@ -26,3 +26,24 @@ npm i --force
 
 # Chạy game ở chế độ phát triển
 npm run dev
+```
+## 📁 Project Directory Structure
+main
+│ README.md → Project documentation and setup guide
+│ project_report.pdf → Detailed project report
+│ youtube_link.txt → Link to gameplay video demonstration
+│
+├───prompts
+│ concept_prompts.txt → Prompts for idea generation
+│ code_generation_prompts.txt → Prompts used for code creation
+│
+├───game_app
+│ ├───app → Main application logic and routing
+│ ├───components → Reusable UI elements (cards, buttons, etc.)
+│ ├───hooks → Custom React hooks for game functionality
+│ ├───lib → Utility and helper functions
+│ ├───public → Static assets (images, icons, etc.)
+│ └───styles → Global and component-specific CSS styles
+│
+└───screenshots
+
