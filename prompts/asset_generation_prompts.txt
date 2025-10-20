@@ -1,0 +1,22 @@
+1. Objective
+- Generate 2D visual and audio assets for the Climate Change Card Game.
+The assets should support an educational and eco-friendly aesthetic, representing real-world environmental actions and concepts.
+2. Visual Style
+- 2D, flat, and friendly cartoon style.
+- Color palette: Symbolizing nature and balance.
+- Rounded corners, smooth gradients, minimal shadows.
+- Consistent line thickness and visual simplicity.
+3. Required Visual Assets
+- Card Icons (PNG / SVG, transparent background)
+“Plant Trees”
+“Recycle Waste” 
+“Burn Coal”
+“Use Public Transport”
+“Plastic Pollution”
+“Solar Energy”
+“Reforestation”
+So on.
+4. UI Elements
+- Game logo
+- Background 
+- Buttons (“Play,” “Reset”).

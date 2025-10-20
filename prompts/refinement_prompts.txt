@@ -1,0 +1,11 @@
+1. Objective
+Refine, debug, and enhance the Climate Change Card Game to make it visually appealing, educational, and fully functional across browsers.
+The focus is on improving user experience, gameplay clarity, animations, and educational impact while keeping the code lightweight and front-end only (HTML/CSS/JavaScript). Now, we need to improve its design quality, smoothness, and educational feel.
+2. Visual & Layout Enhancements
+- Center main elements (cards, buttons, scores) vertically and horizontally.
+- Use a clean and modern color palette
+- Smoothly animate card flips or transitions
+- Ensure fonts are easy to read and thematic 
+3. Code Quality & Optimization
+- Clean up any redundant variables or repeated code in script.js.
+

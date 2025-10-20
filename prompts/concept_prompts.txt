@@ -1,0 +1,21 @@
+You are a professional web game developer. Please design and code a 2D web-based educational card game about climate change using only HTML, CSS, and JavaScript (no backend).
+1. Objectives: 
+- Design and develop a web-based 2D card game about climate change awareness, using only HTML, CSS and JavaScript (front-end only).
+- The game must be fun, educational and impactful, helping players understand how human actions affect the planet.
+2. Theme
+-Theme: Climate Change & Sustainable Development
+- Educational objective: teach players to learn about activities that contribute to environmental protection.
+- Each card represents a real-life behavior or event that impacts the Earth's environment.
+3. Game Concept
+- Players flip or draw cards from the deck.
+- Each card contains an action or event (e.g., "Plant a tree", "Burn coal", "Recycle", "Plastic waste").
+4. Game Screen
+- Menu Screen (Game name, short description, "Play Game" button).
+- Play Screen 
+- Displays the cards.
+- Results Screen
+- Final score with notifications (You can also add optional screens like Settings or Leaderboard.)
+5. Technical & Design Guide
+- Must run entirely in the browser, no installation or backend required.
+- Uses only HTML, CSS, JavaScript and can integrate other front-end libraries.
+- Design style: clean, friendly and inspired by nature.
