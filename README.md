@@ -55,4 +55,5 @@ game_submission
       play_screen2.png → Second in-game play screen
       play_screen3.png → Third in-game play screen
       result_screen.png → Final result summary screen
+<pre>
 
